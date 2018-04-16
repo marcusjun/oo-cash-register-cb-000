@@ -15,7 +15,7 @@ class CashRegister
     @@all.clear
 
     #Overly complicated code, works but too long
-    #I thought *discount indicated that argument is optionally
+    #I thought *discount indicated that argument is optional
     #but maybe not.
     #def initialize(*discount)
     #if discount != nil
